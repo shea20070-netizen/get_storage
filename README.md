@@ -1,4 +1,4 @@
-# get_storage
+import 'package:get_storage/get_storage.dart';# get_storage
 A fast, extra light and synchronous key-value in memory, which backs up data to disk at each operation.
 It is written entirely in Dart and easily integrates with Get framework of Flutter.
 
